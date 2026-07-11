@@ -12,7 +12,7 @@
 ## ✨ Features
 
 ### Frontend
-- 🖥️ **Modern responsive dashboard** — glassmorphism UI with dark/light mode
+- 🖥️ **Modern responsive dashboard** — neo-brutalism UI with dark/light mode
 - 📤 **PDF upload with drag & drop** — file validation, circular progress indicator
 - 📋 **Document library** — filename, page count, size, upload time
 - 💬 **ChatGPT-style Q&A** — real-time conversation per document
