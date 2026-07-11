@@ -1,4 +1,4 @@
-# 📚 StudyRAG AI
+# 📚 InsightQ
 
 > **AI-powered academic PDF assistant** — Upload documents, ask natural language questions, get cited answers, generate summaries, and create MCQ quizzes.
 
