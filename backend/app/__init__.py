@@ -1,0 +1,1 @@
+"""StudyRAG AI backend package."""
