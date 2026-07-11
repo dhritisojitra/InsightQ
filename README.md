@@ -275,8 +275,4 @@ npm run lint
 | Logging | Loguru |
 | Config | Pydantic-Settings |
 
----
 
-## 📄 License
-
-MIT © 2024
